@@ -1,5 +1,7 @@
-# KODECAMP-4.0-task 8
-Developing a Fully Functional API with FastAPI for a Personal Portfolio Website
+# KODECAMP-4.0-TASK 8
+
+# DEVELOPING A FULLY FUNCTIONAL API WITH FASTAPI FOR A PERSONAL PORTFOLIO WEBSITE
+
 In this guide, we will create a fully functional API using FastAPI in Python for a personal portfolio website. The API will include endpoints for managing projects, blog posts, and contact information. We will use SQLite as our database to store the data.
 
 # Step 1: Setting Up the Environment
